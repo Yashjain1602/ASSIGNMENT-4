@@ -1,4 +1,4 @@
-# ASSIGNMENT-4
+# STOCK MARKET APP UI
 BY-YASH JAIN_20BLC1058
 DRIBBLE UI REFERENCE LINK:
 https://dribbble.com/shots/17409666-Investkan-Investment-Bank-Mobile-App/attachments/12536816?mode=media
